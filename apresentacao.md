@@ -1,0 +1,1 @@
+testando o aplicativo git bash, começando com o comando git init para iniciar um um novo repositório git na pasta escolhida
